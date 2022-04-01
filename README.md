@@ -53,9 +53,11 @@ Win Scenario Gif:
 
 CSS Documentation/StackOverflow helped me with simple CSS changes that I wanted to make with margins, padding, and colors.
 
+
 2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words) 
 
 I faced a few challenges when creating this submission like figuring out how to write CSS/Javascript code to customize my website and how to upload my Glitch project to GitHub. I have created websites in the past with software like WordPress with drag and drop tools and easy input replacing all the coding, thus I have some background in web design and know a little about all the ways to manipulate what the users see. To learn how to implement those changes through code, I referred to a few basic HTML/CSS and Javascript tutorials on YouTube and found specific techniques on StackOverflow. Not only did I learn how to code certain elements that I merely inputted in WordPress, but I realized there are a wide variety of ways to design, animate, and manipulate any component of the screen using the three languages in combination. To address the second issue of being unable to export my Glitch project to GitHub, I emailed CodePath and found the CodePath Prework Support Slack group. In the group, I reached out to the TAs and peers facing similar problems as me and figured out the solution to my issue was using a different device to export my project. The group was very understanding and helpful, so I am glad I asked for help.
+
 
 3. What questions about web development do you have after completing your submission? (recommended 100 - 300 words) 
 
@@ -65,8 +67,12 @@ Additionally, when coding this simple memory game, I was slightly overwhelmed by
 
 Finally, with all these new tools like WIX, SquareSpace, WordPress making web development significantly easier without needing to learn how to code, is traditional web development in danger of being taken over in the tech industry? Will companies still hire web developers in the future as things start to become more accessible for everyone lacking coding experience and knowledge?
 
+
 4. If you had a few more hours to work on this project, what would you spend them doing (for example: refactoring certain functions, adding additional features, etc). Be specific. (recommended 100 - 300 words) 
-[YOUR ANSWER HERE]
+
+With a few extra hours, I would have implemented the additional features that CodePath provided and added different game modes that the users choose before playing. Speeding up the game, adding customized buttons with images and sounds for each button, a timer countdown for each turn, and a 3-strike rule would have been top priority with additional time. Furthermore, I would have added the option to choose a game mode when the user presses the Start button, with a screen displaying the two game modes to pick from before transitioning into the actual game.
+
+The first game mode would ask the user for a target they want to play till, speed up after each round, and update the score until they either reach their target or lose the game. In the second mode, the user would play an endless game that speeds up after each turn, where the user tests their memory and tries to set higher and higher scores that are stored and displayed along with a name taken at the end of the game. The second game mode would give it a more arcade-type feeling in which users continuously try to out-perform each other and share their high scores. Taking inspiration from Wordle, I could have spent a few hours learning how to implement sharing across different platforms so people can "flex" their scores on social media. After learning more about web development, I am considering dedicating some time to implementing all these features with my newly gained experience and knowledge. 
 
 
 
