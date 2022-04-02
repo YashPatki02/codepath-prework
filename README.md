@@ -78,7 +78,7 @@ The first game mode would ask the user for a target they want to play till, spee
 
 ## Interview Recording URL Link
 
-[My 5-minute Interview Recording](your-link-here)
+[My 5-minute Interview Recording](https://youtu.be/SFG7DA_6HeM)
 
 
 ## License
